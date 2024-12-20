@@ -1,5 +1,5 @@
 {
-  "name": "themeswitcher",
+  "name": "todocontextlocallist",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "themeswitcher": "file:"
+    "todocontextlocallist": "file:"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
